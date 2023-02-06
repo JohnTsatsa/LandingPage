@@ -1,4 +1,8 @@
 # Landing Page
+
+## demo 
+https://johntsatsa.github.io/LandingPage/
+
 ## Projet Description
 This project shows a page splitted in left and right sections  
 When you hover the cursor on one of the surfaces, it gets bigger and the other smaller.  
